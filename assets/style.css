@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-/* Header desing padding display and design*/
+/* Header desing padding display and design modiffied padding*/
 .header {
     padding: 9px;
     margin: 0;
@@ -50,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-/* Hero image modified */
+/* Hero image modified height and width*/
 .hero {
     height: 929px;
     width: 1652px;
@@ -76,7 +76,7 @@ p {
     display: inline-block;
     margin-left: 25px;
 }
-/* aside display and design*/
+/* aside display and design modified margin, padding and width*/
 .benefits {
     margin-top: 20px;
     margin-right: 25px;
@@ -138,7 +138,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/*section search engine optimization display and desing*/
+/*section search engine optimization display and desing modified margins*/
 .search-engine-optimization {
     margin-top: 20px;
     margin-bottom: 20px;  
