@@ -21,7 +21,7 @@
 2. Git Hub
 
 ### Steps to instal repository and review refactor
-1. Open git bash and clone repository...
+1. Open git bash and clone repository git@github.com:RlucSal/Accessi-Web.git
 2. Navigate to the project directory 'cd Accessi-Web'
 3. Open Visual code typing 'code .' in git bash.
 
