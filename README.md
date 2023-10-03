@@ -49,13 +49,7 @@ It also helps companies avoid litigation that can occur when people with disabil
 ![screeshot index.htm displayed](https://github.com/RlucSal/Accessi-Web/assets/145674108/bde16d32-30fa-47f4-b4e0-4a69d6977e33)
 
 ### Link to deployed application
-
-
-
-
-
-
-
+https://rlucsal.github.io/Accessi-Web/
 
 ## Credits
 https://www.semrush.com/lp/product-seo-challenges/en/?kw=website%20seo%20marketing&cmp=UK_SRCH_SEO_Tools_New_Enhanced_EN&label=seo_tool&Network=g&Device=c&utm_content=445512485485&kwid=kwd-371635466&cmpid=20455432
