@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Header desing padding display and design*/
 .header {
     padding: 9px;
     margin: 0;
@@ -50,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Hero image modified */
 .hero {
     height: 929px;
     width: 1652px;
@@ -70,18 +70,18 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* section display and design*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 25px;
 }
-
+/* aside display and design*/
 .benefits {
     margin-top: 20px;
     margin-right: 25px;
     margin-left: 25px;
-    padding: 51px;
+    padding: 50px;
     clear: both;
     float: right;
     width: 19%;
@@ -138,7 +138,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*section search engine optimization display and desing*/
 .search-engine-optimization {
     margin-top: 20px;
     margin-bottom: 20px;  
@@ -166,7 +166,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* section images display and design*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -178,7 +178,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* links header display and design*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
