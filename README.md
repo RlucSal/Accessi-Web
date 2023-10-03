@@ -68,17 +68,17 @@ If you have an idea for a new feature or enhancement, you can also open an issue
 
 3. Pull Requests.
 To PR follow the following steps:
-1. Fork the repository to your own GitHub account.
-2. Create a new branch from the main branch for your changes.
-3. Make your changes, following our coding style and guidelines.
-4. Write tests if applicable and ensure all existing tests pass.
-5. Submit the PR, providing a clear description of the changes and linking to any related issues.
-6. Our maintainers will review your PR, provide feedback, and work with you to get it merged into the main branch.
+   Fork the repository to your own GitHub account.
+   Create a new branch from the main branch for your changes.
+   Make your changes, following our coding style and guidelines.
+   Write tests if applicable and ensure all existing tests pass.
+   Submit the PR, providing a clear description of the changes and linking to any related issues.
+   Our maintainers will review your PR, provide feedback, and work with you to get it merged into the main branch.
 
-Code of Conduct
+4. Code of Conduct
 We have a Code of Conduct that all contributors are expected to follow. Please review it before participating in this project to ensure a positive and respectful environment for everyone.
 
-Contributor License Agreement
+5. Contributor License Agreement
 Before we can merge your contributions, we require that you sign our Contributor License Agreement (CLA). This agreement ensures that the project's codebase remains open-source and that you grant necessary rights for your contributions to be included.
 
 
