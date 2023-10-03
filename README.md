@@ -2,7 +2,7 @@
 
 ## Description 
 
-### Refactor an existing site to meet the following acceptable criteria:
+### Refactor an existing site to meet the following accessible standards acceptable criteria:
 Semantic HTML elements can be found throughout the source code
 HTML elements follow a logical structure independent of styling and positioning
 Image and icon elements contain accessible alt attributes
