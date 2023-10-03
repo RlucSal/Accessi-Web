@@ -14,6 +14,15 @@
 2. Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
 3. Application's CSS file is properly commented.
 
+### Motivation 
+The impact and benefits for targets with disabilities.
+Web accessibility is an increasingly important consideration for businesses, resolve the problems below. 
+
+### Problem solved
+Websites accessible are better positioned in search engines like Google.
+It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards.
+It also helps companies avoid litigation that can occur when people with disabilities cannot access their website
+
 ## Instalation
 
 ### Prerequisites
