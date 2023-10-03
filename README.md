@@ -64,8 +64,7 @@ This project is licensed under the [MIT License] - see LICENSE file for details.
 If you encounter a bug or have a suggestion for improvement, please open an issue on our Issue Tracker. When reporting issues, please provide as much detail as possible, including steps to reproduce the problem, your environment, and any relevant code snippets or screenshots.
 
 ### Feature Requests
-If you have an idea for a new feature or enhancement, you can also open an issue on our Issue Tracker to discuss it. We value community input and will consider your ideas for future development.
-
+If you have an idea for a new feature or enhancement, you can also open an issue on our Issue Tracker to discuss it.
 ### Pull Requests.
 To PR follow the following steps:
 1. Fork the repository to your own GitHub account.
@@ -73,13 +72,13 @@ To PR follow the following steps:
 3. Make your changes, following our coding style and guidelines.
 4. Write tests if applicable and ensure all existing tests pass.
 5. Submit the PR, providing a clear description of the changes and linking to any related issues.
-6. Our maintainers will review your PR, provide feedback, and work with you to get it merged into the main branch.
+6. Your PR will be revised, provide feedback, and work with you to get it merged into the main branch.
    
 ### Code of Conduct
 We have a Code of Conduct that all contributors are expected to follow. Please review it before participating in this project to ensure a positive and respectful environment for everyone.
 
 ### Contributor License Agreement
-Before we can merge your contributions, we require that you sign our Contributor License Agreement (CLA). This agreement ensures that the project's codebase remains open-source and that you grant necessary rights for your contributions to be included.
+Before your contributions can be merged, is required that you sign our Contributor License Agreement (CLA). This agreement ensures that the project's codebase remains open-source and that you grant necessary rights for your contributions to be included.
 
 
 
