@@ -40,6 +40,8 @@ It also helps companies avoid litigation that can occur when people with disabil
 ## Credits
 
 ## Licence
+This project is licensed under the [MIT Licence] - see the file for details.
+
 
 ## Badges
 
