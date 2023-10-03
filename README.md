@@ -7,15 +7,15 @@ refactor an existing site to make it more accessible
 
 ## Usage
 
-##Credits
+## Credits
 
-##Licence
+## Licence
 
-##Badges
+## Badges
 
-##Features
+## Features
 
-##How to contribute
+## How to contribute
 
 
 
