@@ -25,14 +25,19 @@ It also helps companies avoid litigation that can occur when people with disabil
 
 ## Instalation
 
-### Prerequisites
-1. Git
-2. Git Hub
+### Prerequisites to intal repository and review refactor
+
+1. Visual studio code 
+2. Git
+3. Git Hub Account
+4. SSH key 
 
 ### Steps to instal repository and review refactor
-1. Open git bash and clone repository git@github.com:RlucSal/Accessi-Web.git
-2. Navigate to the project directory 'cd Accessi-Web'
-3. Open Visual code typing 'code .' in git bash.
+1. Open the integrated terminal (Windows open Git Bash)
+2. Clone repository git@github.com:RlucSal/Accessi-Web.git
+3. Autenticate (pasword SSH Key)
+4. Navigate to the project directory 'cd Accessi-Web'
+5. Open Visual code typing 'code .' in git bash.
 
    
 ## Usage
@@ -46,6 +51,10 @@ https://www.w3schools.com/html/html_intro.asp
 https://www.w3schools.com/css/css_intro.asp
 https://blog.hubspot.com/website/comment-out-in-css#:~:text=To%20comment%20in%20CSS%2C%20simply,rendered%20on%20the%20front%20end.&text=Comments%20in%20CSS%20are%20ignored,rendered%20on%20the%20front%20end.
 https://stackoverflow.com/
+https://code.visualstudio.com/. 
+https://git-scm.com/.
+https://github.com/
+
 
 
 ## Licence
