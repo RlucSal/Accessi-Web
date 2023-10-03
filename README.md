@@ -38,12 +38,20 @@ It also helps companies avoid litigation that can occur when people with disabil
 ## Usage
 
 ## Credits
+https://www.semrush.com/lp/product-seo-challenges/en/?kw=website%20seo%20marketing&cmp=UK_SRCH_SEO_Tools_New_Enhanced_EN&label=seo_tool&Network=g&Device=c&utm_content=445512485485&kwid=kwd-371635466&cmpid=20455432
+https://www.igniyte.co.uk/tackling-online-trolls/
+https://www.wordstream.com/social-media-marketing
+https://openai.com/blog/chatgpt
+https://www.w3schools.com/html/html_intro.asp
+https://www.w3schools.com/css/css_intro.asp
+https://blog.hubspot.com/website/comment-out-in-css#:~:text=To%20comment%20in%20CSS%2C%20simply,rendered%20on%20the%20front%20end.&text=Comments%20in%20CSS%20are%20ignored,rendered%20on%20the%20front%20end.
+https://stackoverflow.com/
+
 
 ## Licence
-This project is licensed under the [MIT Licence] - see the file for details.
+This project is licensed under the [MIT License] - see LICENSE file for details.
 
 
-## Badges
 
 ## Features
 
