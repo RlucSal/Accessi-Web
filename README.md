@@ -15,6 +15,12 @@
 3. Application's CSS file is properly commented.
 
 ## Instalation
+
+### Prerequisites:
+1. Git
+2. Git Hub
+
+### Steps to instal repository and review refactor
 1. Open git bash and clone repository...
 2. Navigate to the project directory 'cd Accessi-Web'
 3. Open Visual code typing 'code .' in git bash.
