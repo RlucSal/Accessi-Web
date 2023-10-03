@@ -41,6 +41,22 @@ It also helps companies avoid litigation that can occur when people with disabil
 
 ## Usage
 
+### Screenshot
+![screenshot how to have acces repository from git bash](https://github.com/RlucSal/Accessi-Web/assets/145674108/cd884999-f36e-4440-ab5a-1c0307b035f3)
+![screenshot repository in Visual code](https://github.com/RlucSal/Accessi-Web/assets/145674108/31dc0ef9-b9e7-4442-979a-ab58f1a94520)
+![screenshot assets/images displayed](https://github.com/RlucSal/Accessi-Web/assets/145674108/45b6f462-97c5-4db4-8402-61fd710920dd)
+![screenshot assets/style.css displayed](https://github.com/RlucSal/Accessi-Web/assets/145674108/bef3cc96-1e6e-4b10-88fe-753d0d749881)
+![screeshot index.htm displayed](https://github.com/RlucSal/Accessi-Web/assets/145674108/bde16d32-30fa-47f4-b4e0-4a69d6977e33)
+
+### Link to deployed application
+
+
+
+
+
+
+
+
 ## Credits
 https://www.semrush.com/lp/product-seo-challenges/en/?kw=website%20seo%20marketing&cmp=UK_SRCH_SEO_Tools_New_Enhanced_EN&label=seo_tool&Network=g&Device=c&utm_content=445512485485&kwid=kwd-371635466&cmpid=20455432
 https://www.igniyte.co.uk/tackling-online-trolls/
